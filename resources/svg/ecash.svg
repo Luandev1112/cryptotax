@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.021" y1="-0.031" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#273498"/>
+      <stop offset="0.498" stop-color="#0074c2"/>
+      <stop offset="1" stop-color="#00abe7"/>
+    </linearGradient>
+    <clipPath id="clip-eCash_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="eCash_" data-name="eCash " clip-path="url(#clip-eCash_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path_3" data-name="Path 3" d="M20,0H270a20,20,0,0,1,20,20V270a20,20,0,0,1-20,20H20A20,20,0,0,1,0,270V20A20,20,0,0,1,20,0Z" transform="translate(5 5)" fill="url(#linear-gradient)"/>
+    <g id="ecash-xec-logo" transform="translate(0.131 -2.483)">
+      <path id="Path_4" data-name="Path 4" d="M172.91,114.519l-42.719,24.6a3.516,3.516,0,0,0-1.765,3.085v20.639a3.341,3.341,0,0,0,1.765,2.977l17.891,10.319a3.179,3.179,0,0,0,3.408,0l73.826-42.517c12.529-7.248,12.529-28.129,0-35.377L158.967,60.039a17.742,17.742,0,0,0-18.349,0L74.282,98.258A18.12,18.12,0,0,0,65,114.2c0,25.6.108,51.072,0,76.547a18.12,18.12,0,0,0,9.228,15.937l66.336,38.327a18.241,18.241,0,0,0,18.349,0l66.4-38.327a17.931,17.931,0,0,0,9.12-15.937V157.467l-78.972,45.7a11.2,11.2,0,0,1-11.424,0L108.77,182.727a11.182,11.182,0,0,1-5.712-9.888V132.1a11.262,11.262,0,0,1,5.591-9.781c11.761-6.817,23.616-13.62,35.377-20.437a11.262,11.262,0,0,1,11.424,0l17.513,10a1.536,1.536,0,0,1-.054,2.64Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

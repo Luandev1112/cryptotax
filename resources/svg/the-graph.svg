@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-The_Graph">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="The_Graph" data-name="The Graph" clip-path="url(#clip-The_Graph)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#6747ed"/>
+    <g id="the-graph-grt-logo" transform="translate(102 102)">
+      <g id="Symbols" transform="translate(-81.061 -104.125)">
+        <g id="Group_1" data-name="Group 1" transform="translate(28.1 22.2)">
+          <path id="Fill-19" d="M204.626,221.744a59.018,59.018,0,1,1,59.018-59.018,58.837,58.837,0,0,1-59.018,59.018m0-147.544A88.526,88.526,0,1,1,116.1,162.726,88.549,88.549,0,0,1,204.626,74.2ZM289,255.864c5.994,5.994,5.994,15.215,0,20.748L229.986,335.63c-5.994,5.994-15.216,5.994-20.748,0-5.994-5.994-5.994-15.216,0-20.748l59.018-59.018A14.218,14.218,0,0,1,289,255.864Zm34.12-166.909A14.754,14.754,0,1,1,308.368,74.2,14.857,14.857,0,0,1,323.123,88.954Z" transform="translate(-116.1 -74.2)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

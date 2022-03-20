@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Hedera_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Hedera_" data-name="Hedera " clip-path="url(#clip-Hedera_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path_3" data-name="Path 3" d="M20,0H270a20,20,0,0,1,20,20V270a20,20,0,0,1-20,20H20A20,20,0,0,1,0,270V20A20,20,0,0,1,20,0Z" transform="translate(5 5)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-18.3 -21.188)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(77.586 72.815)">
+        <path id="Path_2" data-name="Path 2" d="M923.3,891.623H894.957V831.372H770.211v60.251H741.87V696.25h28.341v58.8H894.957v-58.8H923.3ZM771.55,808.832H896.295V777.7H771.55Z" transform="translate(-741.87 -696.25)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

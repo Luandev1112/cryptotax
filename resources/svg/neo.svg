@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Neo_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Neo_" data-name="Neo " clip-path="url(#clip-Neo_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(29.197 15)">
+      <g id="Layer_1" data-name="Layer 1">
+        <g id="Layer_2-2" data-name="Layer 2">
+          <g id="Layer_1-2" data-name="Layer 1-2">
+            <path id="Path_4" data-name="Path 4" d="M0,47.069V226.677L116.581,268.5V87.436L242.707,40.949,128.239,0Z" fill="#00e599"/>
+            <path id="Path_5" data-name="Path 5" d="M173.1,111.035v98.219l116.581,41.823V67.9Z" transform="translate(-46.974 -18.426)" fill="#00af92"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

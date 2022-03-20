@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Ethereum_Classic">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Ethereum_Classic" data-name="Ethereum Classic" clip-path="url(#clip-Ethereum_Classic)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(64.435 11.2)">
+      <g id="svg8">
+        <g id="layer5">
+          <g id="g1627">
+            <path id="path1599" d="M0,151.833c30.329,16.106,61.976,32.966,86.419,46.011l85.712-46.011c-31.035,46.1-56.893,84.488-85.712,126.967C57.549,236.414,25.667,189.645,0,151.833Zm3.3-12.717,83.216-44.4,82.133,44.08L86.559,183.245ZM86.419,80.484,0,125.978,86.042,0,172.13,126.26Z" fill="#3ab83a"/>
+            <path id="path1593" d="M771.667,197.844l85.712-46.011c-31.035,46.1-85.712,126.967-85.712,126.967Zm.094-103.133,82.133,44.08-82.086,44.454Zm-.094-14.223L771.29,0l86.089,126.26Z" transform="translate(-685.248)" fill="#0b8311"/>
+            <path id="path1603" d="M29.55,1244.812l83.22,6.829,82.133-7.112-82.09,44.457Z" transform="translate(-26.254 -1105.696)" fill="#0b8311"/>
+            <path id="path1606" d="M775.51,1251.642l82.133-7.112-82.086,44.457Z" transform="translate(-688.998 -1105.696)" fill="#146714"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

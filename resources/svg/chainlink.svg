@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Chainlink_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Chainlink_" data-name="Chainlink " clip-path="url(#clip-Chainlink_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="none"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(30.133 11.503)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_1" data-name="Path 1" d="M120.767,0,95.208,14.7,25.559,54.952,0,69.649v139.3l25.559,14.7L95.847,263.9l25.559,14.7,25.559-14.7,69.01-40.256,25.559-14.7V69.649l-25.559-14.7L146.326,14.7ZM51.118,179.553V99.041l69.649-40.256,69.649,40.256v80.511l-69.649,40.256Z" fill="#2a5ada"/>
+      </g>
+    </g>
+  </g>
+</svg>

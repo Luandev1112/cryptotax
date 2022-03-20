@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-FTX_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="FTX_" data-name="FTX " clip-path="url(#clip-FTX_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(16 34)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+        <path id="Path_4" data-name="Path 4" d="M565.31.015q95.959-.029,191.931,0,.029,31.018,0,62.025-95.962.029-191.931,0Q565.28,31.022,565.31.015Z" transform="translate(-489.661 0)" fill="#02a6c2"/>
+        <path id="Path_5" data-name="Path 5" d="M.08,637.58q30.959-.161,61.929,0,.161,30.959,0,61.929-30.968.159-61.929.005Q-.08,668.55.08,637.58Z" transform="translate(0 -552.205)" fill="#5fcade"/>
+        <path id="Path_6" data-name="Path 6" d="M565.3,637.624q69.262-.147,138.514,0,.147,30.959,0,61.929-69.26.145-138.514,0Q565.158,668.592,565.3,637.624Z" transform="translate(-489.605 -552.249)" fill="#5fcade"/>
+        <path id="Path_7" data-name="Path 7" d="M565.212,1275.143q30.907-.336,61.8,0,.321,30.887.009,61.8-30.907.3-61.8-.011Q564.9,1306.051,565.212,1275.143Z" transform="translate(-489.457 -1104.389)" fill="#abebf4"/>
+      </g>
+    </g>
+  </g>
+</svg>

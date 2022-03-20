@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.019" y1="0.202" x2="0.981" y2="0.798" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2ab8e6"/>
+      <stop offset="0.53" stop-color="#29cad2"/>
+      <stop offset="1" stop-color="#2ee4be"/>
+    </linearGradient>
+    <clipPath id="clip-Theta">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Theta" clip-path="url(#clip-Theta)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#1b1f2b"/>
+    <g id="theta-2" data-name="theta" transform="translate(2.749 -11.252)">
+      <path id="Path_2" data-name="Path 2" d="M145.06,93.1H268.372V306.094H145.06Z" transform="translate(-58.962 -37.842)" fill="#1b1f2b" stroke="#707070" stroke-linejoin="bevel" stroke-width="27.222"/>
+      <path id="Path_3" data-name="Path 3" d="M248.033,240.741H222.5v26.753H199.456V240.741H173.92V217.7h74.113Zm0-66.019H222.5V147.97H199.456v26.753H173.92v23.042h74.113Z" transform="translate(-62.916 -45.36)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

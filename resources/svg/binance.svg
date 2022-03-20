@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Binance_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Binance_" data-name="Binance " clip-path="url(#clip-Binance_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#f0b90b"/>
+    <path id="Binance-Icon-Logo.wine" d="M52.4,116,26.232,142.166,0,116,26.166,89.834ZM116,52.4l44.884,44.884L187.05,71.116,116,0,44.884,71.116,71.05,97.282Zm89.768,37.436L179.6,116l26.166,26.166L231.934,116ZM116,179.6,71.116,134.718,44.95,160.884,116,232l71.05-71.116-26.166-26.166Zm0-37.436L142.166,116,116,89.834,89.768,116Z" transform="translate(34.983 34)" fill="#fff"/>
+  </g>
+</svg>

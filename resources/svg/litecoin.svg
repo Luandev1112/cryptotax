@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Litecoin_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Litecoin_" data-name="Litecoin " clip-path="url(#clip-Litecoin_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#345d9d"/>
+    <g id="litecoin-ltc-logo" transform="translate(5.6 5.6)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="129.038" cy="129.038" r="129.038" transform="translate(15.661 15.661)" fill="#fff"/>
+      <path id="Path_1" data-name="Path 1" d="M144.7,0A144.7,144.7,0,1,0,289.4,144.7h0A144.279,144.279,0,0,0,145.54,0Zm2.453,149.6-15.066,50.8H212.67a4.064,4.064,0,0,1,4.2,3.924v1.331l-7.007,24.175a5.22,5.22,0,0,1-5.255,3.854H81.284l20.671-70.423-23.124,7.007,5.255-16.117,23.124-7.007,29.08-98.8a5.29,5.29,0,0,1,5.255-3.854h31.182a4.064,4.064,0,0,1,4.2,3.924v1.331l-24.525,83.386,23.124-7.007-4.905,16.817Z" fill="#345d9d"/>
+    </g>
+  </g>
+</svg>

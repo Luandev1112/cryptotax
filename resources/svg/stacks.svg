@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Stacks_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Stacks_" data-name="Stacks " clip-path="url(#clip-Stacks_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path_3" data-name="Path 3" d="M20,0H270a20,20,0,0,1,20,20V270a20,20,0,0,1-20,20H20A20,20,0,0,1,0,270V20A20,20,0,0,1,20,0Z" transform="translate(5 5)" fill="#5546ff"/>
+    <g id="stacks-stx-logo" transform="translate(13 10)">
+      <path id="Path_4" data-name="Path 4" d="M217.5,242l-41.771-65.571h59.986V151.657H39v24.771H98.986L57.214,242H88.3l49.057-76.986L186.414,242Zm18.214-114.386V102.843H176.943L218.229,38H186.9l-49.543,78.2L87.814,38H56.486l41.286,64.843H39v25.014l196.714-.243Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

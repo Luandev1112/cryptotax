@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Huobi_Token">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Huobi_Token" data-name="Huobi Token" clip-path="url(#clip-Huobi_Token)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="huobi-token-ht-logo" transform="translate(58.591 7.096)">
+      <path id="Path_4" data-name="Path 4" d="M121.568,87.925c0-40.989-19.759-76.3-34.893-87.864,0,0-1.051-.631-1.051,1.051-1.261,79.246-41.41,100.9-63.691,129.694C-29.146,197.65,18.359,270.8,66.706,284.253c27.116,7.567-6.306-13.453-10.51-57.6-5.045-53.6,65.373-94.38,65.373-138.733" transform="translate(0 0)" fill="#282e5b"/>
+      <path id="Path_5" data-name="Path 5" d="M98.128,54.783a.938.938,0,0,0-1.051,0l-.21.21c-.841,9.879-11.771,31.32-25.434,50.869-46.454,66.424-19.969,98.374-5.045,115.611,8.618,10.09,0,0,21.651-10.3,1.682-.841,42.04-22.281,46.454-70.838,4.414-47.3-25.645-76.934-36.365-85.552" transform="translate(49.926 60.258)" fill="#059bdc"/>
+    </g>
+  </g>
+</svg>

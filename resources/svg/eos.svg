@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-EOS_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="EOS_" data-name="EOS " clip-path="url(#clip-EOS_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(54.2 12.349)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_4" data-name="Path 4" d="M91.4,0,26.98,88.647,0,219.69,91.4,275.3l91.4-55.611L155.27,88.1ZM14.866,213.634l20.372-99.659,46.251,140.4ZM41.846,91.4,91.4,23.125,140.954,91.4,91.4,241.164ZM100.76,254.378l46.251-140.4,20.372,99.659Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

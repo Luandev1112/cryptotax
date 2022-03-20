@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-XRP">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="XRP" clip-path="url(#clip-XRP)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#23292f"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(13.547 37)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_1" data-name="Path 1" d="M233.368,0h39.443L190.727,81.275a76.712,76.712,0,0,1-107.67,0L.94,0H40.415l62.363,61.74a48.563,48.563,0,0,0,68.178,0Z" transform="translate(-0.439)" fill="#fff"/>
+        <path id="Path_2" data-name="Path 2" d="M39.47,333.026H0L82.618,251.25a76.712,76.712,0,0,1,107.67,0l82.618,81.776H233.462l-62.9-62.241a48.563,48.563,0,0,0-68.178,0Z" transform="translate(0 -107.026)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

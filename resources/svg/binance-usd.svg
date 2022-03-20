@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Binance_USD">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Binance_USD" data-name="Binance USD" clip-path="url(#clip-Binance_USD)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(6.229 5.29)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0.7 0.71)">
+        <path id="Path_1" data-name="Path 1" d="M153.271.71l35.571,36.429L99.271,126.71,63.7,91.139Z" transform="translate(-8.748 -0.71)" fill="#f0b90b" stroke="#f0b90b" stroke-width="1"/>
+        <path id="Path_2" data-name="Path 2" d="M209.561,63.71,245.7,100.543,99.839,245.71,63.7,209.743Z" transform="translate(-9.7 -9.71)" fill="#f0b90b" stroke="#f0b90b" stroke-width="1"/>
+        <path id="Path_3" data-name="Path 3" d="M36.271,126.71l35.571,36.429L36.271,198.71.7,163.139Z" transform="translate(-0.7 -17.71)" fill="#f0b90b" stroke="#f0b90b" stroke-width="1"/>
+        <path id="Path_4" data-name="Path 4" d="M270.271,126.71l35.571,36.429L162.271,306.71,126.7,271.139Z" transform="translate(-15.843 -16.71)" fill="#f0b90b" stroke="#f0b90b" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

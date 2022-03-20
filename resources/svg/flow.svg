@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Flow_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Flow_" data-name="Flow " clip-path="url(#clip-Flow_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path_3" data-name="Path 3" d="M20,0H270a20,20,0,0,1,20,20V270a20,20,0,0,1-20,20H20A20,20,0,0,1,0,270V20A20,20,0,0,1,20,0Z" transform="translate(5 5)" fill="#00ef8b"/>
+    <g id="Layer_2_1_" transform="translate(-13.64 -13.64)">
+      <g id="Layer_1-2" transform="translate(48.64 53.76)">
+        <g id="g43">
+          <rect id="rect22" width="52.847" height="52.847" transform="translate(145.422 79.458)" fill="#fff"/>
+          <path id="path24" d="M141.216,180.743a19.864,19.864,0,1,1-19.864-19.864h19.864V108.032H121.351a72.711,72.711,0,1,0,72.711,72.711h0V160.879H141.216Z" transform="translate(-48.64 -28.574)" fill="#fff"/>
+          <path id="path26" d="M184.583,106.607h59.593V53.76H184.583a72.78,72.78,0,0,0-72.711,72.711v6.746h52.847v-6.746A20,20,0,0,1,184.583,106.607Z" transform="translate(-19.296 -53.76)" fill="#fff"/>
+          <path id="polygon28" d="M164.719,108.032H111.872v52.847h52.847Z" transform="translate(-19.296 -28.574)" fill="#16ff99"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-OKB">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="OKB" clip-path="url(#clip-OKB)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Path-raw" transform="translate(4.667 4.667)">
+      <circle id="Oval" cx="64" cy="64" r="64" transform="translate(81.333 0.333)" fill="#88bdf3"/>
+      <circle id="Oval-Copy" cx="64" cy="64" r="64" transform="translate(81.333 162.333)" fill="#3075ee"/>
+      <circle id="Oval-Copy-2" cx="64" cy="64" r="64" transform="translate(162.333 81.333)" fill="#5795f1"/>
+      <circle id="Oval-Copy-3" cx="64" cy="64" r="64" transform="translate(0.333 81.333)" fill="#205fec"/>
+      <path id="Combined-Shape" d="M106.467,106.467A64,64,0,0,1,59.4,59.4,64.413,64.413,0,0,1,106.467,106.467Z" transform="translate(22.486 22.486)" fill="#134bef"/>
+      <path id="Combined-Shape-2" data-name="Combined-Shape" d="M59.3,164.467A64,64,0,0,1,106.367,117.4,64.413,64.413,0,0,1,59.3,164.467Z" transform="translate(22.448 44.452)" fill="#0932e8"/>
+      <path id="Combined-Shape-3" data-name="Combined-Shape" d="M117.3,117.3a64,64,0,0,1,47.067,47.067A64.413,64.413,0,0,1,117.3,117.3Z" transform="translate(44.414 44.414)" fill="#164bea"/>
+      <path id="Combined-Shape-4" data-name="Combined-Shape" d="M164.467,59.3A64,64,0,0,1,117.4,106.367,64.413,64.413,0,0,1,164.467,59.3Z" transform="translate(44.452 22.448)" fill="#3170f1"/>
+    </g>
+  </g>
+</svg>

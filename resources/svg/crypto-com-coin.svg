@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Crypto.com_Coin_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Crypto.com_Coin_" data-name="Crypto.com Coin " clip-path="url(#clip-Crypto.com_Coin_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#103f68"/>
+    <g id="crypto-com-mco-logo" transform="translate(55 55)">
+      <path id="Path_1" data-name="Path 1" d="M123.254,5.018,240.5,72.545V208.019L123.389,275.744l-.948-.234L6.5,208.019V72.546L122.441,5.018h.813Zm-.382,14.015L18.816,79.627V200.938L122.86,261.519l12.71-7.353L228.184,200.9V79.652L135.569,26.078ZM34.937,149.7l30.8-23.031,27.23,17.39v31.282l20.6,19.853-.012,9.311-19.853,18.6H76.946l-42-73.4Zm97.332,54.83-.037-9.36,20.53-19.828V144.063L179.7,126.452l30.74,23.265L168.65,222.9H152.1ZM103.08,144.063,93.055,117.818h59.584l-9.828,26.245,2.907,29.336-22.994.049L100,173.486l3.079-29.422Zm19.644-33.437L66.1,110.6l10.53-47.046h91.925l11.084,47.108Z" transform="translate(-28.5 -45.327)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

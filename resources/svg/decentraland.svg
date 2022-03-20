@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#0084ff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.854" y1="0.146" x2="0.146" y2="0.854" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff2d55"/>
+      <stop offset="1" stop-color="#ffbc5b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a524b3"/>
+      <stop offset="1" stop-color="#ff2d55"/>
+    </linearGradient>
+    <clipPath id="clip-Decentraland">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Decentraland" clip-path="url(#clip-Decentraland)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="decentraland-mana-logo" transform="translate(10 10)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="217" cy="217" r="217" transform="translate(-77 -77)" fill="url(#linear-gradient)"/>
+        <path id="Path_1" data-name="Path 1" d="M125.7,0V105h87.5Z" transform="translate(-24.51 80)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+        <path id="Path_2" data-name="Path 2" d="M16.7,235h87.5V130Z" transform="translate(-3.01 -50)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Path_3" data-name="Path 3" d="M40,320a143.381,143.381,0,0,0,28,28H236a143.381,143.381,0,0,0,28-28Z" transform="translate(-10 -107)" fill="#fc9965" fill-rule="evenodd"/>
+        <path id="Path_4" data-name="Path 4" d="M80,360a140,140,0,0,0,168,0Z" transform="translate(-22 -119)" fill="#ff2d55" fill-rule="evenodd"/>
+        <path id="Path_5" data-name="Path 5" d="M252.3,0V77h64.19Z" transform="translate(-62.49 136)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+        <path id="Path_6" data-name="Path 6" d="M192.82,280H16.7a139.4,139.4,0,0,0,16.31,28H192.89V280Z" transform="translate(-3.01 -95)" fill="#ffbc5b" fill-rule="evenodd"/>
+        <path id="Path_7" data-name="Path 7" d="M176.7,287h64.12V210Z" transform="translate(-51.01 -74)" fill="#fff" fill-rule="evenodd"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="35" cy="35" r="35" transform="translate(154.81 45)" fill="#ffc95b"/>
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="17.5" cy="17.5" r="17.5" transform="translate(83.69 24)" fill="#ffc95b"/>
+      </g>
+    </g>
+  </g>
+</svg>

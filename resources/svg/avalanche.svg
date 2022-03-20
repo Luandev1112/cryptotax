@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-avalanche">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="avalanche" clip-path="url(#clip-avalanche)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#e84142"/>
+    <g id="avalanche-avax-logo" transform="translate(-10.475 4.2)">
+      <path id="Path_1" data-name="Path 1" d="M221.942,166.871c6.037-10.427,15.778-10.427,21.815,0l37.594,65.995c6.037,10.427,1.1,18.934-10.976,18.934H194.639c-11.937,0-16.876-8.507-10.976-18.934ZM149.224,39.821c6.037-10.427,15.641-10.427,21.678,0l8.369,15.092,19.757,34.712a36.063,36.063,0,0,1,0,31.42L132.76,235.884A34.843,34.843,0,0,1,105.594,251.8H50.575c-12.074,0-17.013-8.369-10.976-18.934Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

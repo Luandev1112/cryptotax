@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-KuCoin_Token">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="KuCoin_Token" data-name="KuCoin Token" clip-path="url(#clip-KuCoin_Token)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path_3" data-name="Path 3" d="M20,0H270a20,20,0,0,1,20,20V270a20,20,0,0,1-20,20H20A20,20,0,0,1,0,270V20A20,20,0,0,1,20,0Z" transform="translate(5 5)" fill="#0093dd"/>
+    <g id="kucoin-token-kcs-logo" transform="translate(-3.006 -4.412)">
+      <path id="Path_4" data-name="Path 4" d="M60.657,99.681l53.282,54.306,33.813-33.813c6.148-6.148,15.37-6.148,20.493,0h0a16.081,16.081,0,0,1,0,22.542L124.185,187.8a14.857,14.857,0,0,1-21.518,0h0L39.139,122.223V161.16a15.759,15.759,0,0,1-15.37,15.37A15.759,15.759,0,0,1,8.4,161.16V38.2a15.759,15.759,0,0,1,15.37-15.37A15.759,15.759,0,0,1,39.139,38.2V77.138l63.528-65.578a14.857,14.857,0,0,1,21.518,0h0l44.06,45.085a16.081,16.081,0,0,1,0,22.542c-6.148,6.148-15.37,6.148-20.493,0h0L113.939,44.35Zm53.282-15.37a15.37,15.37,0,1,1-15.37,15.37A15.759,15.759,0,0,1,113.939,84.311Z" transform="translate(66.15 54.731)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

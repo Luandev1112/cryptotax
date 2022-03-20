@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.047" y1="1" x2="0.935" y2="0.07" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#46a7bf"/>
+      <stop offset="1" stop-color="#a65ca2"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="272" height="272"/>
+    </clipPath>
+    <clipPath id="clip-Aave">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Aave" clip-path="url(#clip-Aave)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path_3" data-name="Path 3" d="M20,0H270a20,20,0,0,1,20,20V270a20,20,0,0,1-20,20H20A20,20,0,0,1,0,270V20A20,20,0,0,1,20,0Z" transform="translate(5 5)" fill="url(#linear-gradient)"/>
+    <g id="aave-aave-logo" transform="translate(-250 -250)">
+      <g id="b" transform="translate(264 264)" clip-path="url(#clip-path)">
+        <path id="Path_4" data-name="Path 4" d="M388.108,373.015,326.651,224.43c-3.466-7.682-8.619-11.43-15.411-11.43h-5.434c-6.792,0-11.945,3.747-15.411,11.43l-26.747,64.737H243.411A11.086,11.086,0,0,0,232.4,300.174v.141a11.117,11.117,0,0,0,11.008,11.008h10.867l-25.529,61.692a12.886,12.886,0,0,0-.75,4.216,11.819,11.819,0,0,0,3,8.291c1.921,2.108,4.684,3.138,8.151,3.138a10.9,10.9,0,0,0,6.324-2.108,13.686,13.686,0,0,0,4.4-5.574l28.106-69.7h19.487a11.086,11.086,0,0,0,11.008-11.008v-.281a11.117,11.117,0,0,0-11.008-11.008h-10.4l21.454-53.448,58.46,145.4a13.687,13.687,0,0,0,4.4,5.574,11.01,11.01,0,0,0,6.324,2.108c3.466,0,6.183-1.031,8.151-3.138a11.612,11.612,0,0,0,3-8.291A9.826,9.826,0,0,0,388.108,373.015Z" transform="translate(-172.532 -164.66)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

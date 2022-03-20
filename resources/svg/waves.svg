@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Waves">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Waves" clip-path="url(#clip-Waves)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="waves-waves-logo" d="M43.08,43.08h208v208h-208Z" transform="translate(-57.845 150.08) rotate(-45)" fill="#0055fe"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Fantom_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Fantom_" data-name="Fantom " clip-path="url(#clip-Fantom_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#13b5ec"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(5 5)">
+      <g id="Layer_1" data-name="Layer 1">
+        <g id="Group_1" data-name="Group 1" transform="translate(67.541 16.094)">
+          <path id="Path_1" data-name="Path 1" d="M102.951,95.078l46.476-27.111v54.221Zm46.476,116.189L87.459,247.414,25.492,211.267V148.008l61.967,36.148,61.967-36.148ZM25.492,67.967,71.967,95.078,25.492,122.189Zm69.713,40.021L141.681,135.1,95.205,162.209ZM79.713,162.209,33.238,135.1l46.476-27.111ZM141.681,55.057,87.459,86.041,33.238,55.057,87.459,22.783ZM10,49.894V219.013l77.459,43.894,77.459-43.894V49.894L87.459,6Z" transform="translate(-10 -6)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

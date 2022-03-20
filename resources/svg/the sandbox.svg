@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-The_Sandbox">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="The_Sandbox" data-name="The Sandbox" clip-path="url(#clip-The_Sandbox)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="#0084ff"/>
+    <g id="the-sandbox-sand-logo" transform="translate(-53 -53)">
+      <path id="Path_1" data-name="Path 1" d="M37.175,12.562,13.9,35.837v92.239l23.275,23.275h92.239V197.9H83.726V174.626H13.9v46.55l23.275,23.275H175.964l23.275-23.275v-93.1L175.964,104.8H83.726V58.25h46.55V81.526H200.1V34.975L176.826,11.7H37.175Z" transform="translate(98.563 74.548)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

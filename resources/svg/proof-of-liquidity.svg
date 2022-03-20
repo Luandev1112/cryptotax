@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 200 200">
+      <image width="200" height="200" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <clipPath id="clip-Proof_of_Liquidity">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Proof_of_Liquidity" data-name="Proof of Liquidity" clip-path="url(#clip-Proof_of_Liquidity)">
+    <rect width="100" height="100" fill="rgba(255,255,255,0)"/>
+    <rect id="_6297" data-name="6297" width="90" height="90" rx="5" transform="translate(5 5)" fill="url(#pattern)"/>
+  </g>
+</svg>

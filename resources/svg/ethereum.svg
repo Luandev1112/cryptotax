@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Ethereum">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Ethereum" clip-path="url(#clip-Ethereum)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <g id="Ethereum-Icon-Purple-Logo.wine_1_" data-name="Ethereum-Icon-Purple-Logo.wine(1)" transform="translate(64.8 8.446)">
+          <path id="Path_1" data-name="Path 1" d="M87.068,104.91V0L0,144.484Z" fill="#8a92b2"/>
+          <path id="Path_2" data-name="Path 2" d="M87.068,195.963V104.91L0,144.484Zm0-91.052,87.084,39.573L87.068,0Z" fill="#62688f"/>
+          <path id="Path_3" data-name="Path 3" d="M539.7,650.3v91.052l87.084-51.479Z" transform="translate(-452.632 -545.39)" fill="#454a75"/>
+          <path id="Path_4" data-name="Path 4" d="M87.068,1049.45,0,998l87.068,122.7Z" transform="translate(0 -836.997)" fill="#8a92b2"/>
+          <path id="Path_5" data-name="Path 5" d="M626.832,998,539.7,1049.45v71.25Z" transform="translate(-452.632 -836.997)" fill="#62688f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

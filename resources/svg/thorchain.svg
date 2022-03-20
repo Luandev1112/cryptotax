@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-1.27" y1="2.218" x2="-1.266" y2="2.218" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0cf"/>
+      <stop offset="1" stop-color="#3f9"/>
+    </linearGradient>
+    <clipPath id="clip-THORChain_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="THORChain_" data-name="THORChain " clip-path="url(#clip-THORChain_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Thorchain_logo_white_text" d="M0,290.5l202.8-85.4L138.6,140ZM74.5,75l64.2,65L253.3,0Z" transform="translate(24 5)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

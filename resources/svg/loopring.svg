@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Loopring_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Loopring_" data-name="Loopring " clip-path="url(#clip-Loopring_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path" d="M158.92,105.947H274v.913L94.073,216.46l89.507-71.24ZM91.333,0V218.287L0,145.22Z" transform="translate(13 41.807)" fill="#1c60ff"/>
+  </g>
+</svg>

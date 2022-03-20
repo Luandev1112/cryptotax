@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="88" height="88" transform="translate(0.333 0.333)"/>
+    </clipPath>
+    <clipPath id="clip-Governanaze_zilliqa">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Governanaze_zilliqa" data-name="Governanaze zilliqa" clip-path="url(#clip-Governanaze_zilliqa)">
+    <rect width="100" height="100" fill="rgba(255,255,255,0)"/>
+    <g id="Zilliqa_" data-name="Zilliqa " transform="translate(5.667 5.667)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="88" height="88" transform="translate(0.333 0.333)" fill="rgba(255,255,255,0)"/>
+      <g id="zilliqa-zil-logo" transform="translate(15.733 3.842)">
+        <g id="Group_1" data-name="Group 1" transform="translate(0)">
+          <path id="path0_fill" d="M-133.47,142.473l-11.665,5.2-30.946,15.753,30.946,14.879v-24.6l11.665-5.257v36.333l-11.665,5.2L-190.7,168.181V156.59l31.541-15.473L-190.7,125.959V114.2l11.852-5.2,45.379,21.845v11.628Z" transform="translate(190.7 -109)" fill="#49c1bf"/>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(0)">
+          <path id="path1_fill" d="M-190.7,114.2l45.565,21.845,11.665-5.2L-178.848,109Z" transform="translate(190.7 -109)" fill="#077a8f"/>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(45.566 21.795)">
+          <path id="path2_fill" d="M36.6,222.9l11.665-5.2v11.628l-11.665,5.2Z" transform="translate(-36.6 -217.7)" fill="#298e97"/>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(0 5.212)">
+          <path id="path3_fill" d="M-190.7,135v11.758l31.541,15.158L-190.7,177.389V188.98l45.565,21.807V199.122l-30.946-14.9,30.946-15.753V156.845Z" transform="translate(190.7 -135)" fill="#49c1bf"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(45.566 39.378)">
+          <path id="path4_fill" d="M36.6,346.934l11.665-5.2V305.4L36.6,310.657Z" transform="translate(-36.6 -305.4)" fill="#298e97"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

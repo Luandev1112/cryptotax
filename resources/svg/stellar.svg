@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Stellar">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Stellar" clip-path="url(#clip-Stellar)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" rx="20" transform="translate(5 5)" fill="none"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(13 34.011)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0 -0.011)">
+        <path id="Path_1" data-name="Path 1" d="M235.018,30.288,202.069,47.075,42.963,128.116a94.77,94.77,0,0,1,140.189-95L202.012,23.5l2.813-1.436A115.773,115.773,0,0,0,21.047,115.774q0,4.422.336,8.81A21.059,21.059,0,0,1,9.945,144.937L0,150.008v23.652l29.279-14.923h0l9.482-4.839L48.1,149.14h0L215.835,63.677l18.848-9.6L273.64,34.224V10.583Z" transform="translate(0 0.011)"/>
+        <path id="Path_2" data-name="Path 2" d="M273.64,50,57.632,159.984,38.784,169.6,0,189.367V213l38.518-19.623,32.949-16.787L230.735,95.429a96.608,96.608,0,0,1,.81,12.457A94.783,94.783,0,0,1,90.407,190.5l-1.158.614L68.8,201.535a115.773,115.773,0,0,0,183.789-93.648c0-2.975-.116-5.951-.336-8.891a21.071,21.071,0,0,1,11.427-20.353l9.956-5.071Z" transform="translate(0 7.899)"/>
+      </g>
+    </g>
+  </g>
+</svg>

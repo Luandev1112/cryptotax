@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Basic_Attention_Token">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Basic_Attention_Token" data-name="Basic Attention Token" clip-path="url(#clip-Basic_Attention_Token)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="basic-attention-token-bat-logo" transform="translate(10 30)">
+      <path id="Path_4" data-name="Path 4" d="M280.4,1226.673,140.869,1146.78,0,1227Z" transform="translate(0 -986.004)" fill="#662d91"/>
+      <path id="Path_5" data-name="Path 5" d="M1004.835,0l-.045,160.776,139.526,79.893Z" transform="translate(-863.921)" fill="#9e1f63"/>
+      <path id="Path_6" data-name="Path 6" d="M0,241l140.869-80.224L140.914,0Z" fill="#ff5000"/>
+      <path id="Path_7" data-name="Path 7" d="M649.5,695.67l-57.6,96.211H707.359L649.5,695.67Z" transform="translate(-508.917 -598.139)" fill="#fff" stroke="#ff5000" stroke-miterlimit="10" stroke-width="25"/>
+    </g>
+  </g>
+</svg>

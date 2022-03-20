@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Klaytn_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Klaytn_" data-name="Klaytn " clip-path="url(#clip-Klaytn_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="klaytn-klay-logo" transform="translate(6.709 12)">
+      <path id="Path_1" data-name="Path 1" d="M1047.4,401.394l97.911,97.194a141.689,141.689,0,0,0,0-194.389" transform="translate(-897.319 -260.611)" fill="#4f473b"/>
+      <path id="Path_2" data-name="Path 2" d="M420.678,1027.4,324.2,1123.161l96.478,40.021,96.478-40.021" transform="translate(-277.747 -880.183)" fill="#4f473b"/>
+      <path id="Path_3" data-name="Path 3" d="M472.625,137.216l100.06-99.344L480.477,0,389,220.84Z" transform="translate(-333.261)" fill="#4f473b"/>
+      <path id="Path_4" data-name="Path 4" d="M0,183.448a140.977,140.977,0,0,0,38.588,97.194L134.348,49.8" transform="translate(0 -42.664)" fill="#4f473b"/>
+    </g>
+  </g>
+</svg>

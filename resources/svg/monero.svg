@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Monero_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Monero_" data-name="Monero " clip-path="url(#clip-Monero_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="monero" transform="translate(10.96 11.227)">
+      <path id="Path_1" data-name="Path 1" d="M650,510.755a139,139,0,1,1-139-139A139,139,0,0,1,650,510.755Z" transform="translate(-371.96 -371.75)" fill="#fff"/>
+      <path id="_149931032" data-name=" 149931032" d="M511.184,371.75c-76.745,0-139.083,62.325-138.985,139a139.373,139.373,0,0,0,7.057,43.9h41.588V437.716l90.341,90.34,90.337-90.34V554.652h41.6a139.41,139.41,0,0,0,7.059-43.9c.131-76.755-62.238-138.984-138.992-138.984Z" transform="translate(-372.144 -371.75)" fill="#f26822"/>
+      <path id="_149931160" data-name=" 149931160" d="M743.1,2270.9l-39.426-39.427v73.581H673.533l-28.443.005a139.017,139.017,0,0,0,237.581-.006h-58.6v-73.58L784.642,2270.9l-20.769,20.769L743.1,2270.9h0Z" transform="translate(-624.837 -2093.823)" fill="#4d4d4d"/>
+    </g>
+  </g>
+</svg>

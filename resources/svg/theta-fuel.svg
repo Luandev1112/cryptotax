@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.028" y1="0.024" x2="0.766" y2="0.81" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa50d"/>
+      <stop offset="1" stop-color="#fe5413"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-Theta_Fuel">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Theta_Fuel" data-name="Theta Fuel" clip-path="url(#clip-Theta_Fuel)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path_3" data-name="Path 3" d="M20,0H270a20,20,0,0,1,20,20V270a20,20,0,0,1-20,20H20A20,20,0,0,1,0,270V20A20,20,0,0,1,20,0Z" transform="translate(5 5)" fill="url(#linear-gradient)"/>
+    <g id="theta-fuel-tfuel-logo" transform="translate(12 12)">
+      <g id="Group_6" data-name="Group 6" transform="translate(64.803 27.048)">
+        <g id="Group_3" data-name="Group 3" transform="translate(110.432 27.048)">
+          <path id="SVGID_4_" d="M650.665,237.676c-1.739,2.07-1.628,6.652-4.416,5.244,0,0-19.4-7.424-7.452-29.256,3.229-5.051,6.569-5.382,6.072-17.664,2.981,4.526,12.751,13.607,13.524,27.876.773,9.522-4.913,10.792-7.728,13.8Z" transform="translate(-634.908 -196)" fill="#fff"/>
+        </g>
+        <g id="Group_4" data-name="Group 4">
+          <path id="SVGID_5_" d="M345.525,200.672c4.775-1.6,12.5-4.14,12.972-20.424,7.369,11.288,32.375,27.131,20.424,75.624-4.858,18.906-22.963,28.1-40.02,35.052-10.654,4.526-21.528,12.089-25.944,23.46,0,0-80.62-10.184-78.108-90.252,2.015-41.538,40.931-57.408,57.408-87.768,8.777-19.154,5.8-38.364,5.8-38.364s51.336,31.933,28.152,81.144c-7.535,17.388,10.46,23.267,19.32,21.528Z" transform="translate(-234.792 -98)" fill="#fff"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(31.521 117.024)">
+          <path id="SVGID_6_" d="M349,522v26.772h28.428V577.2H404.2V548.772h28.428V522Z" transform="translate(-349 -522)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

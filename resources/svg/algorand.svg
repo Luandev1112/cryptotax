@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Algorand_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Algorand_" data-name="Algorand " clip-path="url(#clip-Algorand_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="algorand-algo-logo" d="M50.3,290l42.088-72.628L134.478,145,176.31,72.372l6.929-11.508,3.08,11.508,12.832,47.822L184.779,145,142.69,217.372,100.858,290h50.3l42.089-72.628,21.814-37.593,10.265,37.593L244.832,290H290l-19.5-72.628L250.991,145l-5.133-18.668,31.31-53.959H231.487L229.947,67,214.035,7.672,211.982,0H168.1l-1.027,1.534L126.009,72.372,83.92,145,42.088,217.372,0,290Z" transform="translate(5 5)"/>
+  </g>
+</svg>

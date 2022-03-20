@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Lido_Staked_Ether">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Lido_Staked_Ether" data-name="Lido Staked Ether" clip-path="url(#clip-Lido_Staked_Ether)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <path id="Path_9" data-name="Path 9" d="M595.5,267l70.25-39.625L595.625,120.063l-70,107Z" transform="translate(-445 -103)" fill="none" stroke="#00a3ff" stroke-width="13"/>
+    <path id="Path_10" data-name="Path 10" d="M514,244l82,47,80-47s18.194,23.721,18.667,56.583c.132,9.146-2.794,22.128-7.083,33.5-2.459,6.52-5.856,12.348-8.25,16.917-9.28,17.709-28.732,31.256-46.25,38.167a107.3,107.3,0,0,1-37.083,7.5,126.608,126.608,0,0,1-40-8.833c-18.66-7.728-37.122-22.8-47.167-41.5-9.122-16.984-13.7-40.069-10.833-59.667C501.493,262.813,514,244,514,244Z" transform="translate(-445 -103)" fill="#00a3ff"/>
+  </g>
+</svg>

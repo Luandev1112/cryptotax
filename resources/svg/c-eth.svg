@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.001" y1="-0.001" x2="0.004" y2="-0.001" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27d3a2"/>
+      <stop offset="1" stop-color="#9388fd"/>
+    </linearGradient>
+    <clipPath id="clip-cETH_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="cETH_" data-name="cETH  " clip-path="url(#clip-cETH_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="compound-ether-logo_logotyp.us" data-name="compound-ether-logo@logotyp.us" transform="translate(9.798 9.789)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0.202 0.211)">
+        <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="139.986" cy="139.939" rx="139.986" ry="139.939" transform="translate(0.028 0.121)" fill="#edf0f2"/>
+        <g id="Group_1" data-name="Group 1">
+          <path id="Path_4" data-name="Path 4" d="M233.122,248.278a142.373,142.373,0,0,1-76.4,31.074,144.683,144.683,0,0,1-104.36-31.074A139.519,139.519,0,0,1,.9,153.852,137.671,137.671,0,0,1,16.939,74.2,140.992,140.992,0,0,1,75.412,16.755,144.466,144.466,0,0,1,232.9,31.963L204.164,66.429A97.381,97.381,0,0,0,152.04,45.312,98.517,98.517,0,0,0,96.8,56.144,96.689,96.689,0,0,0,56.924,95.315,94.2,94.2,0,0,0,81.093,213.921a98.451,98.451,0,0,0,123.183-.109Z" transform="translate(-0.202 -0.211)" fill="url(#linear-gradient)"/>
+          <path id="Path_5" data-name="Path 5" d="M144.535,260.731a116.3,116.3,0,1,0-116.4-116.243A116.279,116.279,0,0,0,144.535,260.731Z" transform="translate(-4.112 -4.12)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(108.086 86.488)">
+        <path id="Path_6" data-name="Path 6" d="M150.436,166.908,183.8,147.552l-39.619-20.364Z" transform="translate(-117.067 -93.315)" fill="#aab8c1"/>
+        <path id="Path_7" data-name="Path 7" d="M112.769,148.326l33.369,19.356V131.994Z" transform="translate(-112.669 -93.988)" fill="#aab8c1"/>
+        <path id="Path_8" data-name="Path 8" d="M146.021,87.8l-33.369,54.338L156.3,122.682Z" transform="translate(-112.652 -87.801)" fill="#283947"/>
+        <path id="Path_9" data-name="Path 9" d="M151.453,87.8v39.418l33.369,14.92Z" transform="translate(-118.084 -87.801)" fill="#657786"/>
+        <path id="Path_10" data-name="Path 10" d="M146.038,204.307l4.335-24.4-37.6-21.776Z" transform="translate(-112.669 -97.648)" fill="#283947"/>
+        <path id="Path_11" data-name="Path 11" d="M151.453,177.491v26.816l33.369-46.172Z" transform="translate(-118.084 -97.648)" fill="#657786"/>
+      </g>
+    </g>
+  </g>
+</svg>

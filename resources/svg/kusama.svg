@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.047" y1="1" x2="0.935" y2="0.07" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#46a7bf"/>
+      <stop offset="1" stop-color="#a65ca2"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_3" data-name="Path 3" d="M20,0H270a20,20,0,0,1,20,20V270a20,20,0,0,1-20,20H20A20,20,0,0,1,0,270V20A20,20,0,0,1,20,0Z" transform="translate(5 5)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-Kusama_">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Kusama_" data-name="Kusama " clip-path="url(#clip-Kusama_)">
+    <rect width="300" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(4.258 4.258)">
+        <g id="Layer_1" data-name="Layer 1" transform="translate(0.742 0.742)">
+          <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="290" transform="translate(0)" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_4" data-name="Path 4" d="M269.491,122.747c-3.536-2.409-7.753-5.7-15.437-6.521-7.209-.822-14.553,3.349-19.518,6.11S220.187,133.2,216.31,135.671s-13.805,4.758-29.787,13.042-78.683,43.061-78.683,43.061l16.321.176L51.4,224.32h7.277L48.2,231.193s9.249,2.115,17-2.115v1.939s86.639-29.491,103.369-21.854l-10.2,2.585c.884,0,17.341.94,17.341.94.809,5.96,4.647,11.3,10.473,14.569,9.929,5.64,10.133,8.753,10.133,8.753s-5.168,1.821-5.168,4.112a61.348,61.348,0,0,1,14.689-1.821,64.392,64.392,0,0,1,13.261,1.821s-.544-2.467-7.413-4.112-13.669-8.107-17-11.632a14.668,14.668,0,0,1-2.788-16.1c2.38-5.346,10.677-8.283,27.814-15.92,20.2-9.047,24.822-15.744,27.678-20.973s7.073-15.627,9.453-20.5a27.185,27.185,0,0,1,9.725-11.632c3.06-2,16.661-6.4,16.661-6.4S272.823,125.038,269.491,122.747Z" transform="translate(-20.42 -32.277)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
